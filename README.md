@@ -1,4 +1,4 @@
-# React JavaScript Test
+# Code Challenge: React Frontend
 
 A sample project with React to test your familiarities with this library as well as Html, CSS and JavaScript.
 
